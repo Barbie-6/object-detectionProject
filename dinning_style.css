@@ -24,15 +24,14 @@ img{
     padding: 2px;
     color: black !important;
 }
-#status_dinning{
-    width: 150px;
+#status_dinning, #number_of_objects{
     height: 40px;
     font-size: 24px;
     padding: 2px;
 }
 canvas {
     background-color: white;
-    margin-top: 70px;
+    margin-top: 100px;
     box-shadow: 5px 7px 3px pink;
     border-radius: 30px;
     border: ridge black 3px;
